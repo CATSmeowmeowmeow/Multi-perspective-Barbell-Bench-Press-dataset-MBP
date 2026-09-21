@@ -117,7 +117,7 @@ The dataset contains **6 primary classes**:
 
 
 ## 6. Download
-- 📦 **Download Dataset**: [BenchpressDataset.zip](BenchpressDataset.zip)  
+- 📦 **Download Dataset**: [BenchpressDataset.zip](https://catslab.ee.ncku.edu.tw/public/BenchpressDataset.zip)  
   *(Includes JSON-formatted pre-extracted feature data tracking wrist/barbell trajectories and body postures, raw video recordings, coordinate annotations, and angle data)*
 
 ---
